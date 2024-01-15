@@ -1,0 +1,4 @@
+Log File is successfully created
+hellotriangle.vert read successfully
+Vertex shader successfully compiled!!!! at 542hellotriangle.frag read successfully
+Fragment shader successfully compiled!!!! at 578SuccessLogfile Successfully Closed

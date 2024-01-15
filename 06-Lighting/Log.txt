@@ -1,0 +1,10 @@
+Log File is successfully created
+vertexShader1.vert read successfully
+Vertex shader successfully compiled!!!! at 568
+fragmentShader1.frag read successfully
+Fragment shader successfully compiled!!!! at 604
+vertexShader2.vert read successfully
+Vertex shader successfully compiled!!!! at 691
+fragmentShader2.frag read successfully
+Fragment shader successfully compiled!!!! at 727
+SuccessLogfile Successfully Closed

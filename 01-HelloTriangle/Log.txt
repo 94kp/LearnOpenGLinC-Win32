@@ -1,0 +1,5 @@
+Log File is successfully created
+hellotriangle.vert read successfully
+hellotriangle.frag read successfully
+Success
+Logfile successfully closed

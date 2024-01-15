@@ -1,0 +1,4 @@
+#include "OGL.h"
+MYICON ICON kp.ico
+IDBITMAP_TEXTURE_CONTAINER BITMAP container2.bmp
+IDBITMAP_TEXTURE_SPECULAR BITMAP container2_specular.bmp
